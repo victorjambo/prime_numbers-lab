@@ -23,8 +23,8 @@ You can check this yourself:
 2 * 2 * 3 * 5
 = 4 * 15
 = 60
-Success!x
-How to Run this Lab
+Success!
+### How to Run this Lab
 
 Fork this Repository, then Clone forked repository
 Open the file named primeNumbers.py and start coding 
