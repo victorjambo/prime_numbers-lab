@@ -1,8 +1,7 @@
 """ Tests our prime number function """
 
 import unittest
-from prime_numbers import prime_numbers
-
+from primeNumbers import primeNumbers
 
 class TestPrimeNumbers(unittest.TestCase):
     """ Tests prime_numbers functionality """
