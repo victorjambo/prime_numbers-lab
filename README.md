@@ -27,7 +27,7 @@ Success!x
 How to Run this Lab
 
 Fork this Repository, then Clone forked repository
-Open the file named primeNUmbers.py and start coding 
+Open the file named primeNumbers.py and start coding 
 ###Notes
 
 Prior understanding of python classes, returning, and conditional statements will be required to complete this exercise.
