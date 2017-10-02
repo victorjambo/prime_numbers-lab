@@ -1,10 +1,10 @@
-##Prime Factors
+## Prime Factors
 
 A prime number is only evenly divisible by itself and 1.
 
 Note that 1 is not a prime number.
 
-##Example
+## Example
 
 What are the prime factors of 60?
 
@@ -28,7 +28,7 @@ How to Run this Lab
 
 Fork this Repository, then Clone forked repository
 Open the file named primeNumbers.py and start coding 
-###Notes
+### Notes
 
 Prior understanding of python classes, returning, and conditional statements will be required to complete this exercise.
 
